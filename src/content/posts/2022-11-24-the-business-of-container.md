@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: The Business of Container
-slug: The Business of Container
+slug: /Business-of-Container
 date: 2017-11-15 17:13
 description: Docker is a lightweight virtual machine using Linux technology.
 ---
