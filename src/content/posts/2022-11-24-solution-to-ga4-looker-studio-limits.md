@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Solution to GA4 Looker Studio Limits
-slug: Solution to GA4 Looker Studio Limits
+slug: /Solution-to-GA4-Looker-Studio-Limits
 date: 2022-11-24 15:57
 description: "BigQuery is your answer to GA4 Looker Studio Limits "
 ---
