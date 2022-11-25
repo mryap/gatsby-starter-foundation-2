@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Capturing measurements in Google Analytics
-slug: Capturing measurements in Google Analytics
+slug: /Capturing-measurements-in-Google-Analytics
 date: 2019-03-28 17:08
 description: How to send additional interaction data to Google Analytics to get
   a better picture of how users are experiencing your site or application.
