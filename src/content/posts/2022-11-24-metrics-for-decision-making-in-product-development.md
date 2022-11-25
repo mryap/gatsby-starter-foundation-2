@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Metrics for decision making in product development
-slug: Metrics for decision making in product development
+slug: /product-development-metrics
 date: 2017-11-14 17:20
 description: If you want your product’s design to be informed by data, it helps
   to have metrics that reflect the quality of the user experience that map
