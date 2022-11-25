@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: The Open Graph Protocol
-slug: The Open Graph Protocol
+slug: /Open-Graph-Protocol
 date: 2018-03-19 17:16
 description: You've created a compelling website and brand, don't squander it
   away when you try to share your content on social network.
