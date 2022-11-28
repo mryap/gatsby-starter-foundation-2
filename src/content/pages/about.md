@@ -18,8 +18,7 @@ Last few years as a freelance web analyst, my responsibilities are:
   *   Web Analytics tagging implementation
   *   Web Analysis and Optimisations
   *   Performance and insights reporting
-  *   Evangelise, train clients and project partners on web analytics
-  metrics, dashboards
+  *   Train clients and project partners on web analytics metrics, dashboards
 
 
 ![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
