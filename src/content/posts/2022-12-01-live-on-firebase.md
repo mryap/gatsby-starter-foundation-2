@@ -19,3 +19,5 @@ A﻿s a digital analyst building a PWA site, alllows me to know the type of onli
 All these help to inform my work.
 
 ![Image](https://pbs.twimg.com/media/Fi3HFKJVsAEeevx?format=png&name=medium)
+
+Want PWA insights and inspiration straight from experts? From client-side data storage tips to handy open-source toolkits, this year’s [PWA Summit](https://chromeos.dev/en/posts/pwa-summit-2022?linkId=8381509) has you covered.
