@@ -7,6 +7,7 @@ description: Co-organising Ireland first MeasureCamp. Held on Saturday at Google
   Ireland, it a 1-day digital analytics un-conference event with 100+ attendees.
   Digital Analytics professional from places as far as Greece, Lithuania,
   Belfast (ok not that far) travel to Dublin for the event.
+featuredImage: /assets/0.jpg
 ---
 Co-organising Ireland first MeasureCamp. Held on Saturday at Google Ireland, it a 1-day digital analytics un-conference event with 100+ attendees. My role: promoted event, secured location, coordinated event logistics, and liaised with speakers and sponsors on-site.
 
