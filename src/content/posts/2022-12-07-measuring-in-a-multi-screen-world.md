@@ -2,7 +2,7 @@
 template: blog-post
 title: Measuring in a multi-screen world
 slug: /measuring-multi-screen-world
-date: 2022-12-07 11:37
+date: 2014-06-07 11:37
 description: >
   Google Analytics User ID features allows you to track the same visitors across
   different devices including desktop.
