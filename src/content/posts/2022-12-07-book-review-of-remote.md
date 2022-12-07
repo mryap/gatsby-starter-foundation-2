@@ -2,7 +2,7 @@
 template: blog-post
 title: Book Review of Remote
 slug: /book-review-remote
-date: 2022-12-07 11:40
+date: 2018-09-08 11:40
 description: Picked up a copy of Remote at the Dublin library. Authored by
   Founders of 37Signals, they lay out the argument for working remotely and not
   bound by a geographical location.
