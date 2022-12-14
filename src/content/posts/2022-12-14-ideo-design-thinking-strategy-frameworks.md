@@ -4,7 +4,7 @@ title: "IDEO Design Thinking & Strategy Frameworks "
 slug: /ideo-design-thinking-strategy-frameworks
 date: 2022-12-14 00:48
 description: "Test to learn, Prototyping, making tangible, and iterating,
-  Conduct tests, Measures: Align on what success looks like "
+  Conduct tests, Measures to align on what success looks like "
 ---
 I. Design Thinking Process
 
