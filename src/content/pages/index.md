@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: YAP S S
 tagline: "Let Do Data Analytics Differently. "
-featuredImage: /assets/team-cats.jpg
+featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
