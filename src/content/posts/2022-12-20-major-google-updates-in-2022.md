@@ -5,6 +5,8 @@ slug: "/major-google-2022-updates "
 date: 2022-12-20 09:23
 description: major google 2022 updates you need to know
 ---
+
+
 Feb 22: Desktop Page Experience Update
 Mar 23: Product Reviews Update
 May 25: Core Update
