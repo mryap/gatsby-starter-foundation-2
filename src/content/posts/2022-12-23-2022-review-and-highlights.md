@@ -7,7 +7,7 @@ description: A few interesting round up in A/B testing and experimentation,
   digital transformation in 2022
 ---
 ## A/B testing and experimentation
-NYT critique of Linkedin A/B testing and experimentation does not rings true for me. Experimentation helps companies understand the impact of their work.  
+NYT critique of Linkedin A/B testing and experimentation does not rings true for me. Experimentation helps companies understand the impact of their work. I do not see LinkedIn doing wrong here.  
 https://www.nytimes.com/2022/09/24/business/linkedin-social-experiments.html
 
 ## Google Updates
