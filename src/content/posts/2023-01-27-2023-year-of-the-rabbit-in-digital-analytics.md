@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: "2023 Year of the Rabbit in Digital Analytics "
-slug: 2023-Digital-Analytics
+title: "2023 Year of Rabbit in Digital Analytics "
+slug: /2023-Digital-Analytics
 date: 2023-01-27 10:14
 description: 2023 see the sun setting of Google Optimize
 featuredImage: /assets/p1120306.jpg
