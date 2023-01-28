@@ -15,7 +15,7 @@ Google Optimize is one of many tools that enable data driven marketers to do A/B
 ### September 30, 2023
 
 Google announced that Google Optimize will be ending on September 30, 2023. No further details have been provided so far, although Google has stated that it will integrate A/B testing capabilities into Google Analytics 4. 
-The sun setting of Google Optimize has lead to a surge in competition among vendors, notably one [ramp up their offerings](https://vwo.com/blog/launching-a-free-plan-of-vwo-testing-a-better-google-optimize/) to capture a void of the A/B testing market. 
+The sun setting of Google Optimize has lead to a surge in competition among [vendors](https://martechseries.com/technology/cro-company-intellimize-minimizes-industry-disruptions-with-free-service-for-google-optimize-360-customers/), notably one [ramp up their offerings](https://vwo.com/blog/launching-a-free-plan-of-vwo-testing-a-better-google-optimize/) to capture a void of the A/B testing market. 
 
 ### K﻿eep Experimenting
 
