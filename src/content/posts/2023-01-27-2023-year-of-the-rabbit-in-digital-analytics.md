@@ -6,6 +6,14 @@ date: 2023-01-27 10:14
 description: 2023 see the sun setting of Google Optimize
 featuredImage: /assets/p1120306.jpg
 ---
+ A/B testing is a valuable tool for digital marketers as it allows them to make data-driven decisions about their website or app's design and functionality.\
+\
+By comparing 2 versions of a webpage or feature, marketers can determine which one performs better in terms of metrics such as conversion rates, click-through rates, and bounce rates
+
+Google Optimize is one of many tools that enable data driven marketers to do A/B testing
+
+### September 30, 2023
+
 Google announced that Google Optimize will be ending on September 30, 2023. No further details have been provided so far, although Google has stated that it will integrate A/B testing capabilities into Google Analytics 4. 
 The sun setting of Google Optimize has lead to a surge in competition among vendors, notably one [ramp up their offerings](https://vwo.com/blog/launching-a-free-plan-of-vwo-testing-a-better-google-optimize/) to capture a void of the A/B testing market. 
 
