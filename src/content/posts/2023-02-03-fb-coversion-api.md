@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "FB Coversion API "
+title: "What is FaceBook Coversion API "
 slug: /facebook-capi
 date: 2023-02-03 17:23
 description: FB Pixels and FB Conversion API in the era of iOS, GDPR and Ad Blocker.
@@ -29,11 +29,11 @@ FB Conversion API previously known as Server-Side Events offers a way of trackin
 
 ### What about Facebook Pixel?
 
-Facebook Pixel tracking has been the standard way of tracking Facebook Ads Campaigns for many years. Users just simply plug a line of javascript into the website and [actually tracks everything visitors do on your website.](https://developers.facebook.com/docs/facebook-pixel/support#pixelcollect) FB Conversion API is not a replacement for your Facebook Pixel, both should be ran in parallel. In fact, FB recommends
+Facebook Pixel tracking has been the standard way of tracking Facebook Ads Campaigns for many years. Users just simply plug a line of javascript into the website and [actually tracks everything visitors do on your website.](https://developers.facebook.com/docs/facebook-pixel/support#pixelcollect) FB Conversion API is not a replacement for your Facebook Pixel, both should be ran in parallel. 
+
+In fact, FB recommends
 
 > For optimal ad performance, we recommend that advertisers implement the Conversions API alongside their Facebook pixel and follow other [best practices](https://developers.facebook.com/docs/marketing-api/conversions-api/best-practices).
-
-
 
 More conversion data using both Facebook Conversions API and the pixel will help Facebook’s ad optimization algorithm be more effective. If Facebook has both events, it will not count the redundant event and use just the browser event.
 
