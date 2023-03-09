@@ -15,7 +15,7 @@ Google are offering to automatically move your Google Analytics Universal Analyt
 1. Form submission success event.  
 2. Tailor GA4 Ecommerce implementation to your user journey
 3. Configure content groupings in GA4
-4. Create element visibility events (e.g.banner or button is visible in browser). 
+4. Create element visibility events (e.g. banner or button is visible in browser). 
 5. Change data retention period from 2 to 14 months
 6. Remove unwanted query parameters from landing page URLs 
 7. Create events for important pageviews or event clicks in GA4 console
@@ -42,3 +42,15 @@ Google are offering to automatically move your Google Analytics Universal Analyt
 28. Trigger events based upon source, medium & campaign UTM parameters
 29. Configure data from different environments to be sent to separate GA4 Properties 
 30. Create and configure new marketing pixels (e.g. Tiktok or Google Ads)
+
+### OPT-OUT of the auto migration
+
+Here how you OPT-OUT of the auto migration offered by Google Analytics to the new Google Analytics 4.
+
+In your existing Universal Analytics account, go to Admin → Property column → GA4 Setup Assistant
+
+Scroll to the bottom and Toggle OFF the switch for “Automatically set up a basic GA4 property”
+
+Next hire me as I help you to ensure the set-up is fit for purpose that works for your business model.
+
+![](/assets/ga4-optout.png)
