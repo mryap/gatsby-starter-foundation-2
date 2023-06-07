@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: YAP S S
 tagline: I help organisation thrive online on Shopify platform.
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+featuredImage: /assets/adria-translate-in-action.fce35d00.svg
 cta:
   ctaText: Know more
   ctaLink: /about
