@@ -2,12 +2,10 @@
 template: index-page
 slug: /
 title: YAP S S
-tagline: "Let Do Data Analytics Differently. "
+tagline: I help organisation thrive online on Shopify platform.
 featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Currently based in Singapore, I help organisation thrive with Digital Analytics and A/B Testing.
-
-
+Your customers don’t see the line between online and offline. Neither should your platform. I help you manage and navigate the Shopify platform and create shopping experiences that convert while staying true to your brand.
