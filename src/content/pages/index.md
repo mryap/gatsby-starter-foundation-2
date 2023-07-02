@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Hey, I am Shiao Shyan
-tagline: "eCommerce ~ Digital Analytics ~ Conversion Optimization "
+tagline: eCommerce (Shopify), Digital Analytics(GA4), Marketing Automation(Klaviyo)
 featuredImage: /assets/adria-translate-in-action.fce35d00.png
 cta:
   ctaText: Know more
